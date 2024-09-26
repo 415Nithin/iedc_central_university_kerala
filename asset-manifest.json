@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/iedc_react/static/css/main.a8ac3f7a.chunk.css",
+    "main.js": "/iedc_react/static/js/main.499fd473.chunk.js",
+    "main.js.map": "/iedc_react/static/js/main.499fd473.chunk.js.map",
+    "runtime~main.js": "/iedc_react/static/js/runtime~main.62bf3ea2.js",
+    "runtime~main.js.map": "/iedc_react/static/js/runtime~main.62bf3ea2.js.map",
+    "static/js/2.f97e20b1.chunk.js": "/iedc_react/static/js/2.f97e20b1.chunk.js",
+    "static/js/2.f97e20b1.chunk.js.map": "/iedc_react/static/js/2.f97e20b1.chunk.js.map",
+    "index.html": "/iedc_react/index.html",
+    "precache-manifest.3017fc294cd5c51dc2188a331fbe7544.js": "/iedc_react/precache-manifest.3017fc294cd5c51dc2188a331fbe7544.js",
+    "service-worker.js": "/iedc_react/service-worker.js",
+    "static/css/main.a8ac3f7a.chunk.css.map": "/iedc_react/static/css/main.a8ac3f7a.chunk.css.map",
+    "static/media/iedc-2024-executive.jpg": "/iedc_react/static/media/iedc-2024-executive.70826b8a.jpg",
+    "static/media/iedckerala_logo.jpg": "/iedc_react/static/media/iedckerala_logo.d7173960.jpg"
+  }
+}
