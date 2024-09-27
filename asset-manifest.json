@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/iedc_react/static/css/main.a8ac3f7a.chunk.css",
-    "main.js": "/iedc_react/static/js/main.499fd473.chunk.js",
-    "main.js.map": "/iedc_react/static/js/main.499fd473.chunk.js.map",
-    "runtime~main.js": "/iedc_react/static/js/runtime~main.62bf3ea2.js",
-    "runtime~main.js.map": "/iedc_react/static/js/runtime~main.62bf3ea2.js.map",
-    "static/js/2.f97e20b1.chunk.js": "/iedc_react/static/js/2.f97e20b1.chunk.js",
-    "static/js/2.f97e20b1.chunk.js.map": "/iedc_react/static/js/2.f97e20b1.chunk.js.map",
-    "index.html": "/iedc_react/index.html",
-    "precache-manifest.3017fc294cd5c51dc2188a331fbe7544.js": "/iedc_react/precache-manifest.3017fc294cd5c51dc2188a331fbe7544.js",
-    "service-worker.js": "/iedc_react/service-worker.js",
-    "static/css/main.a8ac3f7a.chunk.css.map": "/iedc_react/static/css/main.a8ac3f7a.chunk.css.map",
-    "static/media/iedc-2024-executive.jpg": "/iedc_react/static/media/iedc-2024-executive.70826b8a.jpg",
-    "static/media/iedckerala_logo.jpg": "/iedc_react/static/media/iedckerala_logo.d7173960.jpg"
+    "main.css": "/iedc_central_university_kerala/static/css/main.a8ac3f7a.chunk.css",
+    "main.js": "/iedc_central_university_kerala/static/js/main.499fd473.chunk.js",
+    "main.js.map": "/iedc_central_university_kerala/static/js/main.499fd473.chunk.js.map",
+    "runtime~main.js": "/iedc_central_university_kerala/static/js/runtime~main.1fc139dc.js",
+    "runtime~main.js.map": "/iedc_central_university_kerala/static/js/runtime~main.1fc139dc.js.map",
+    "static/js/2.f97e20b1.chunk.js": "/iedc_central_university_kerala/static/js/2.f97e20b1.chunk.js",
+    "static/js/2.f97e20b1.chunk.js.map": "/iedc_central_university_kerala/static/js/2.f97e20b1.chunk.js.map",
+    "index.html": "/iedc_central_university_kerala/index.html",
+    "precache-manifest.7ba74d2b6ba908a11df02bff816677b5.js": "/iedc_central_university_kerala/precache-manifest.7ba74d2b6ba908a11df02bff816677b5.js",
+    "service-worker.js": "/iedc_central_university_kerala/service-worker.js",
+    "static/css/main.a8ac3f7a.chunk.css.map": "/iedc_central_university_kerala/static/css/main.a8ac3f7a.chunk.css.map",
+    "static/media/iedc-2024-executive.jpg": "/iedc_central_university_kerala/static/media/iedc-2024-executive.70826b8a.jpg",
+    "static/media/iedckerala_logo.jpg": "/iedc_central_university_kerala/static/media/iedckerala_logo.d7173960.jpg"
   }
 }
